@@ -148,3 +148,34 @@ nav ul li {
 footer i {
   margin: 0 0.25em 0.5em 0.25em;
 }
+
+#simposio {
+  padding: 95px 15px 120px 16px;
+  max-width: 1085px;
+  margin: auto;
+}
+
+#simposio h1{
+  font-size: 45px;
+  padding-bottom: 73px;
+  text-align: left;
+}
+
+#simposio h2{
+  font-size: 40px;
+  padding-top: 15px;
+  padding-bottom: 48px;
+}
+
+#simposio figure{
+  padding-bottom: 73px;
+}
+
+
+#simposio p{
+
+  line-height: 30px;
+  margin-bottom: 30px;
+  text-align: justify;
+}
+
